@@ -21,6 +21,16 @@
 
 .footer{
     display: flex;
+    background-color: rgb(57, 57, 75);
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    font-size: small;
+    margin: auto;
+    padding: 1px;
     justify-content: space-around;
-    background-color: #ef3c2d;
+    height: 40px;
+}
+
+.footer a{
+    color: rgb(255, 250, 250);
 }
